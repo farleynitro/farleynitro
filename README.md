@@ -1,0 +1,15 @@
+### Hi there 👋
+
+## I am Farley!
+
+I am deeply interested in:
+
+- Data science/data analysis for solving of complex societal problems and innovation problems
+- Developing apps for sport related activities (not started yet with this!)
+
+Hobbies:
+- Skateboarding
+- Running
+- Photography
+- Latin dancing
+- Socializing
