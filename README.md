@@ -8,6 +8,7 @@ I am deeply interested in:
 - Developing apps for sport related activities (not started yet with this!)
 
 Hobbies:
+- Nature hiking/trekking
 - Skateboarding
 - Running
 - Photography
