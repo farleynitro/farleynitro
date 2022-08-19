@@ -1,0 +1,5 @@
+---
+title: "ICP5006 Blog of Farley Rimon"
+site: distill::distill_website
+listing: posts
+---
